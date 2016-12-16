@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-I hadto create a script calls run_analysis.R which would merge test and training sets together and form a clean dataset. The steps were:  
+I had to create a script calls run_analysis.R which would merge test and training sets together and form a clean dataset. The steps were:  
 1. Download the dataset   
 2. Load all the information into R	
 3. Merge the training and testing datasets into 1 dataset   
